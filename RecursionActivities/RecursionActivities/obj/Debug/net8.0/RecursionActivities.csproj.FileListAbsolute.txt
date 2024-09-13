@@ -1,0 +1,14 @@
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\bin\Debug\net8.0\RecursionActivities.exe
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\bin\Debug\net8.0\RecursionActivities.deps.json
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\bin\Debug\net8.0\RecursionActivities.runtimeconfig.json
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\bin\Debug\net8.0\RecursionActivities.dll
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\bin\Debug\net8.0\RecursionActivities.pdb
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.AssemblyInfoInputs.cache
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.AssemblyInfo.cs
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.csproj.CoreCompileInputs.cache
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.dll
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\refint\RecursionActivities.dll
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.pdb
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\RecursionActivities.genruntimeconfig.cache
+C:\Users\duerh\Desktop\EB Lessons\RecursionActivities\RecursionActivities\obj\Debug\net8.0\ref\RecursionActivities.dll

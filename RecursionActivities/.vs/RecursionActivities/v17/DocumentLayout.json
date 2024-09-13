@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duerh\\Desktop\\EB Lessons\\RecursionActivities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5212FAB3-2093-4127-A4E0-80C224714BDC}|RecursionActivities\\RecursionActivities.csproj|c:\\users\\duerh\\desktop\\eb lessons\\recursionactivities\\recursionactivities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212FAB3-2093-4127-A4E0-80C224714BDC}|RecursionActivities\\RecursionActivities.csproj|solutionrelative:recursionactivities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duerh\\Desktop\\EB Lessons\\RecursionActivities\\RecursionActivities\\Program.cs",
+              "RelativeDocumentMoniker": "RecursionActivities\\Program.cs",
+              "ToolTip": "C:\\Users\\duerh\\Desktop\\EB Lessons\\RecursionActivities\\RecursionActivities\\Program.cs",
+              "RelativeToolTip": "RecursionActivities\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:09:48.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
